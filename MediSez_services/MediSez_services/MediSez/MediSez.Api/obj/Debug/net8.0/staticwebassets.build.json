@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "p76y7MJS9NSCsdOsN4iN7DNoQXJTOJB3uFGqwq7PBJo=",
+  "Source": "MediSez.Api",
+  "BasePath": "_content/MediSez.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

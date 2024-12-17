@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MediSez\\Services\\MediSez_services\\MediSez\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12C54AEF-15E9-420E-9822-12110D5B7E3E}|MediSez.Data\\MediSez.Data.csproj|d:\\medisez\\services\\medisez_services\\medisez\\medisez.data\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C54AEF-15E9-420E-9822-12110D5B7E3E}|MediSez.Data\\MediSez.Data.csproj|solutionrelative:medisez.data\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C54AEF-15E9-420E-9822-12110D5B7E3E}|MediSez.Data\\MediSez.Data.csproj|d:\\medisez\\services\\medisez_services\\medisez\\medisez.data\\sqlconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C54AEF-15E9-420E-9822-12110D5B7E3E}|MediSez.Data\\MediSez.Data.csproj|solutionrelative:medisez.data\\sqlconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C54AEF-15E9-420E-9822-12110D5B7E3E}|MediSez.Data\\MediSez.Data.csproj|d:\\medisez\\services\\medisez_services\\medisez\\medisez.data\\interfaces\\isearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C54AEF-15E9-420E-9822-12110D5B7E3E}|MediSez.Data\\MediSez.Data.csproj|solutionrelative:medisez.data\\interfaces\\isearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D0C05F-66B9-4961-B250-E720AF778A8B}|MediSez.Api\\MediSez.Api.csproj|d:\\medisez\\services\\medisez_services\\medisez\\medisez.api\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D0C05F-66B9-4961-B250-E720AF778A8B}|MediSez.Api\\MediSez.Api.csproj|solutionrelative:medisez.api\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C54AEF-15E9-420E-9822-12110D5B7E3E}|MediSez.Data\\MediSez.Data.csproj|d:\\medisez\\services\\medisez_services\\medisez\\medisez.data\\dbutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C54AEF-15E9-420E-9822-12110D5B7E3E}|MediSez.Data\\MediSez.Data.csproj|solutionrelative:medisez.data\\dbutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D0C05F-66B9-4961-B250-E720AF778A8B}|MediSez.Api\\MediSez.Api.csproj|d:\\medisez\\services\\medisez_services\\medisez\\medisez.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D0C05F-66B9-4961-B250-E720AF778A8B}|MediSez.Api\\MediSez.Api.csproj|solutionrelative:medisez.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D0C05F-66B9-4961-B250-E720AF778A8B}|MediSez.Api\\MediSez.Api.csproj|d:\\medisez\\services\\medisez_services\\medisez\\medisez.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85D0C05F-66B9-4961-B250-E720AF778A8B}|MediSez.Api\\MediSez.Api.csproj|solutionrelative:medisez.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4881EE21-28F4-49F6-8D68-F8832289666F}|MediSez.Models\\MediSez.Models.csproj|d:\\medisez\\services\\medisez_services\\medisez\\medisez.models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4881EE21-28F4-49F6-8D68-F8832289666F}|MediSez.Models\\MediSez.Models.csproj|solutionrelative:medisez.models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D0C05F-66B9-4961-B250-E720AF778A8B}|MediSez.Api\\MediSez.Api.csproj|d:\\medisez\\services\\medisez_services\\medisez\\medisez.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D0C05F-66B9-4961-B250-E720AF778A8B}|MediSez.Api\\MediSez.Api.csproj|solutionrelative:medisez.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4881EE21-28F4-49F6-8D68-F8832289666F}|MediSez.Models\\MediSez.Models.csproj|d:\\medisez\\services\\medisez_services\\medisez\\medisez.models\\input\\customresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4881EE21-28F4-49F6-8D68-F8832289666F}|MediSez.Models\\MediSez.Models.csproj|solutionrelative:medisez.models\\input\\customresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D0C05F-66B9-4961-B250-E720AF778A8B}|MediSez.Api\\MediSez.Api.csproj|d:\\medisez\\services\\medisez_services\\medisez\\medisez.api\\medisez.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{85D0C05F-66B9-4961-B250-E720AF778A8B}|MediSez.Api\\MediSez.Api.csproj|solutionrelative:medisez.api\\medisez.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D0C05F-66B9-4961-B250-E720AF778A8B}|MediSez.Api\\MediSez.Api.csproj|d:\\medisez\\services\\medisez_services\\medisez\\medisez.api\\medisez.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85D0C05F-66B9-4961-B250-E720AF778A8B}|MediSez.Api\\MediSez.Api.csproj|solutionrelative:medisez.api\\medisez.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C54AEF-15E9-420E-9822-12110D5B7E3E}|MediSez.Data\\MediSez.Data.csproj|d:\\medisez\\services\\medisez_services\\medisez\\medisez.data\\medisez.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12C54AEF-15E9-420E-9822-12110D5B7E3E}|MediSez.Data\\MediSez.Data.csproj|solutionrelative:medisez.data\\medisez.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "D:\\MediSez\\Services\\MediSez_services\\MediSez\\MediSez.Api\\Controllers\\SearchController.cs",
+              "RelativeDocumentMoniker": "MediSez.Api\\Controllers\\SearchController.cs",
+              "ToolTip": "D:\\MediSez\\Services\\MediSez_services\\MediSez\\MediSez.Api\\Controllers\\SearchController.cs",
+              "RelativeToolTip": "MediSez.Api\\Controllers\\SearchController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADYAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T05:56:56.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MediSez\\Services\\MediSez_services\\MediSez\\MediSez.Api\\Program.cs",
+              "RelativeDocumentMoniker": "MediSez.Api\\Program.cs",
+              "ToolTip": "D:\\MediSez\\Services\\MediSez_services\\MediSez\\MediSez.Api\\Program.cs",
+              "RelativeToolTip": "MediSez.Api\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T06:03:52.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MediSez\\Services\\MediSez_services\\MediSez\\MediSez.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "MediSez.Api\\appsettings.json",
+              "ToolTip": "D:\\MediSez\\Services\\MediSez_services\\MediSez\\MediSez.Api\\appsettings.json",
+              "RelativeToolTip": "MediSez.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-30T06:08:53.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomResponse.cs",
+              "DocumentMoniker": "D:\\MediSez\\Services\\MediSez_services\\MediSez\\MediSez.Models\\Input\\CustomResponse.cs",
+              "RelativeDocumentMoniker": "MediSez.Models\\Input\\CustomResponse.cs",
+              "ToolTip": "D:\\MediSez\\Services\\MediSez_services\\MediSez\\MediSez.Models\\Input\\CustomResponse.cs",
+              "RelativeToolTip": "MediSez.Models\\Input\\CustomResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:05:05.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchService.cs",
+              "DocumentMoniker": "D:\\MediSez\\Services\\MediSez_services\\MediSez\\MediSez.Data\\Services\\SearchService.cs",
+              "RelativeDocumentMoniker": "MediSez.Data\\Services\\SearchService.cs",
+              "ToolTip": "D:\\MediSez\\Services\\MediSez_services\\MediSez\\MediSez.Data\\Services\\SearchService.cs",
+              "RelativeToolTip": "MediSez.Data\\Services\\SearchService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwC0AAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T05:59:53.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SqlConstants.cs",
+              "DocumentMoniker": "D:\\MediSez\\Services\\MediSez_services\\MediSez\\MediSez.Data\\SqlConstants.cs",
+              "RelativeDocumentMoniker": "MediSez.Data\\SqlConstants.cs",
+              "ToolTip": "D:\\MediSez\\Services\\MediSez_services\\MediSez\\MediSez.Data\\SqlConstants.cs",
+              "RelativeToolTip": "MediSez.Data\\SqlConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T11:23:29.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBUtility.cs",
+              "DocumentMoniker": "D:\\MediSez\\Services\\MediSez_services\\MediSez\\MediSez.Data\\DBUtility.cs",
+              "RelativeDocumentMoniker": "MediSez.Data\\DBUtility.cs",
+              "ToolTip": "D:\\MediSez\\Services\\MediSez_services\\MediSez\\MediSez.Data\\DBUtility.cs",
+              "RelativeToolTip": "MediSez.Data\\DBUtility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T06:12:15.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISearch.cs",
+              "DocumentMoniker": "D:\\MediSez\\Services\\MediSez_services\\MediSez\\MediSez.Data\\Interfaces\\ISearch.cs",
+              "RelativeDocumentMoniker": "MediSez.Data\\Interfaces\\ISearch.cs",
+              "ToolTip": "D:\\MediSez\\Services\\MediSez_services\\MediSez\\MediSez.Data\\Interfaces\\ISearch.cs",
+              "RelativeToolTip": "MediSez.Data\\Interfaces\\ISearch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T05:59:39.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\MediSez\\Services\\MediSez_services\\MediSez\\MediSez.Api\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "MediSez.Api\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\MediSez\\Services\\MediSez_services\\MediSez\\MediSez.Api\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "MediSez.Api\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:03:42.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "D:\\MediSez\\Services\\MediSez_services\\MediSez\\MediSez.Models\\AppSettings.cs",
+              "RelativeDocumentMoniker": "MediSez.Models\\AppSettings.cs",
+              "ToolTip": "D:\\MediSez\\Services\\MediSez_services\\MediSez\\MediSez.Models\\AppSettings.cs",
+              "RelativeToolTip": "MediSez.Models\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:30:10.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MediSez.Api",
+              "DocumentMoniker": "D:\\MediSez\\Services\\MediSez_services\\MediSez\\MediSez.Api\\MediSez.Api.csproj",
+              "RelativeDocumentMoniker": "MediSez.Api\\MediSez.Api.csproj",
+              "ToolTip": "D:\\MediSez\\Services\\MediSez_services\\MediSez\\MediSez.Api\\MediSez.Api.csproj",
+              "RelativeToolTip": "MediSez.Api\\MediSez.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T11:00:35.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MediSez.Api.csproj",
+              "DocumentMoniker": "D:\\MediSez\\Services\\MediSez_services\\MediSez\\MediSez.Api\\MediSez.Api.csproj",
+              "RelativeDocumentMoniker": "MediSez.Api\\MediSez.Api.csproj",
+              "ToolTip": "D:\\MediSez\\Services\\MediSez_services\\MediSez\\MediSez.Api\\MediSez.Api.csproj",
+              "RelativeToolTip": "MediSez.Api\\MediSez.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-30T06:00:15.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MediSez.Data.csproj",
+              "DocumentMoniker": "D:\\MediSez\\Services\\MediSez_services\\MediSez\\MediSez.Data\\MediSez.Data.csproj",
+              "RelativeDocumentMoniker": "MediSez.Data\\MediSez.Data.csproj",
+              "ToolTip": "D:\\MediSez\\Services\\MediSez_services\\MediSez\\MediSez.Data\\MediSez.Data.csproj",
+              "RelativeToolTip": "MediSez.Data\\MediSez.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-30T05:59:26.94Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

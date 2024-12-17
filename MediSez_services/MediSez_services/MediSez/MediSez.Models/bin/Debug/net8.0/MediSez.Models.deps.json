@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MediSez.Models/1.0.0": {
+        "dependencies": {
+          "StyleCop": "6.2.0"
+        },
+        "runtime": {
+          "MediSez.Models.dll": {}
+        }
+      },
+      "StyleCop/6.2.0": {
+        "runtime": {
+          "lib/net40/StyleCop.dll": {
+            "assemblyVersion": "6.2.0.0",
+            "fileVersion": "6.2.7489.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MediSez.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StyleCop/6.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rCRzMtLw9tR5fBjMrO8FwNg/ybY3ktHusktboZz0UtzzRAbI6BC9/0BaXNtk+mFZ0eldKI7/BKSVaRvhVCqfAQ==",
+      "path": "stylecop/6.2.0",
+      "hashPath": "stylecop.6.2.0.nupkg.sha512"
+    }
+  }
+}
