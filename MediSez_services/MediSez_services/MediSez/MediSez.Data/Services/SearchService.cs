@@ -46,6 +46,26 @@ namespace MediSez.Data.Services
             return await DBUtility.GetjsonData(_appSettings.ConnectionString, SqlConstants.SearchDataByCityAndUserType, sqlParams).ConfigureAwait(false);
         }
 
+        public async Task<string> GetHospitalShortProfiles(string cityName, string displayUrlName) 
+        {
+            var sqlParams = new Dictionary<string, object>
+            {
+                {"DisplayUrlName" ,displayUrlName},
+                {"CityName" ,cityName},
+            };
+            return await DBUtility.GetjsonData(_appSettings.ConnectionString, SqlConstants.HospitalsShortProfiles, sqlParams).ConfigureAwait(false);
+        }
+
+        public async Task<string> GetDoctorShortProfiles(string cityName, string displayUrlName)
+        {
+            var sqlParams = new Dictionary<string, object>
+            {
+                {"DisplayUrlName" ,displayUrlName},
+                {"CityName" ,cityName},
+            };
+            return await DBUtility.GetjsonData(_appSettings.ConnectionString, SqlConstants.DoctorShortProfiles, sqlParams).ConfigureAwait(false);
+        }
+
         public async Task<string> SearchTypes()
         {
             var sqlParams = new Dictionary<string, object>

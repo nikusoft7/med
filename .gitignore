@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MediSez_services/MediSez_services/MediSez/MediSez.Data/obj
+/MediSez_services/MediSez_services/MediSez/MediSez.Models/obj
+/MediSez_services/MediSez_services/MediSez/MediSez.Api/obj
+/MediSez_services/MediSez_services/MediSez/.vs
+/MediSez_services/MediSez_services/MediSez/.vs/MediSez/v17/.suo
+/.vs/med/v17/.wsuo
+/.vs/med/v17/DocumentLayout.json

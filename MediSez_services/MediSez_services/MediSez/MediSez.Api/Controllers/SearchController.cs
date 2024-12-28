@@ -64,6 +64,36 @@ namespace MediSez.Api.Controllers
             }
         }
 
+        [HttpPost("DoctorShortProfiles")]
+        [EnableCors("AllowOrigin")]
+        [ProducesResponseType(200)]
+        public async Task<string> GetDoctorShortProfiles(string cityName, string displayUrlName)
+        {
+            try
+            {
+                return await _search.GetDoctorShortProfiles(cityName, displayUrlName).ConfigureAwait(false);
+            }
+            catch (Exception ex)
+            {
+                throw;
+            }
+        }
+
+        [HttpPost("HospitalShortProfiles")]
+        [EnableCors("AllowOrigin")]
+        [ProducesResponseType(200)]
+        public async Task<string> GetHospitalShortProfiles(string cityName, string displayUrlName)
+        {
+            try
+            {
+                return await _search.GetHospitalShortProfiles(cityName, displayUrlName).ConfigureAwait(false);
+            }
+            catch (Exception ex)
+            {
+                throw;
+            }
+        }
+
         //[HttpPost("SearchTypes")]
         //[EnableCors("AllowOrigin")]
         //[ProducesResponseType(200)]      
